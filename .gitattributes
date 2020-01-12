@@ -1,0 +1,20 @@
+* text eol=lf
+*.jpg binary
+*.png binary
+*.gif binary
+*.mp4 binary
+*.mpg binary
+*.jar binary
+*.war binary
+*.tar binary
+*.tar.gz binary
+*.zip binary
+*.ttf binary
+*.swf binary
+*.eof binary
+*.eot binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+# Ignore all differences in line endings
+*        -crlf
